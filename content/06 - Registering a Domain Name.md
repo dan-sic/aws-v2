@@ -6,6 +6,8 @@
 
 ![route-53.png](Attachments/route-53.png)
 
+DOMAIN NAME SHOULD BE THE SAME AS THE NAME OF THE S3 BUCKET
+
 ![pick-a-domain-name.png](Attachments/pick-a-domain-name.png)
 
 Next up, you'll fill in your contact details.
