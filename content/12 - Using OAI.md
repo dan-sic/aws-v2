@@ -2,6 +2,8 @@
 
 ## Origin Access Identity
 
+THIS IS LEGACY NOW - USE ORIGIN ACCESS CONTROLS (https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
+
 OAI let's you have a closed bucket, but still allow CloudFront to serve it.
 
 This is a feature that you can turn on when setting an origin as an S3 bucket on a CloudFront distribution.
