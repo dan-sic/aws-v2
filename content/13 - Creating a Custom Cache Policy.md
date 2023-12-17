@@ -9,3 +9,5 @@ In your Cloudfront distribution:
 - Go to the **Behaviors** tab
 - Add a new behavior
 - Under **Cache key and origin requests**, create a new policy.
+
+Alternatively, instead of setting short ttl for files like index.html, we can create invalidation, after each deploy. Invalidations should be created during CI/CD pipeline.
